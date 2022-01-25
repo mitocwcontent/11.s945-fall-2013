@@ -1,0 +1,34 @@
+leftnav:
+- identifier: 2de69591-16c3-352b-18a4-497cfb47b0c7
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 15932baa-b974-b47d-3eb3-7440cfbe2308
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 241f4725-7635-4981-e2f1-9823bf3d66a3
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 8399e131-3641-5b76-deb8-6fce5f1ad713
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 40
+- identifier: 1561bbe0-afea-9aee-2d90-8e2c0faad6c1
+  name: Class Videos
+  url: /video_galleries/class-videos
+  weight: 50
+- identifier: 439e3d51-e5ec-85a0-a970-1144ca182d73
+  name: Assignments
+  url: /pages/assignments
+  weight: 60
+- identifier: 2f74bf52-0c54-5aca-42b4-8845671bd27c
+  name: Projects
+  url: /pages/projects/
+  weight: 70
+- identifier: 28aa22b4-dc4e-f8f6-2b97-78ceccd6ca8f
+  name: Candidate Topics
+  parent: 2f74bf52-0c54-5aca-42b4-8845671bd27c
+  url: /pages/projects/candidate-topics
+  weight: 80
